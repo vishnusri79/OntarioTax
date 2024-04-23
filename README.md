@@ -1,4 +1,4 @@
-#Ontario Tax Calculator App
+Ontario Tax Calculator App
 The Ontario Tax Calculator App is a user-friendly Android application designed to calculate income tax based on the tax brackets and rates provided by the Ontario government. Additionally, the app allows users to account for RRSP (Registered Retirement Savings Plan) contributions, deducting them from income when calculating tax. The RRSP contribution limit for the next year is also displayed. App data is stored in Shared Preferences for persistence, and users can perform what-if analysis by adjusting the RRSP deduction limit using a Slider component.
 
 Features
